@@ -32,6 +32,8 @@ def main() :
         total += value
     print(total)
 
-main()
+
+if __name__ == "__main__" : 
+    main()
     
        
