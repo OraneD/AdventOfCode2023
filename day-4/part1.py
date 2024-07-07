@@ -37,4 +37,3 @@ def main():
     print(result)
     
 main()
-    
