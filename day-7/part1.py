@@ -85,6 +85,7 @@ def separate_hand(sorted_hand):
 
 
 def second_sort(hand_lst):
+    """Selection Sort"""
     sorted_hand = []
     while len(hand_lst) > 1 :
         candidate = hand_lst[0]
